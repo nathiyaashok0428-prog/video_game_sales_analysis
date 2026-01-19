@@ -1,5 +1,5 @@
 # ============================================================
-# sql_load_pipeline.py
+# db_pipeline.py
 # Video Game Sales – SQL Create & Load Pipeline
 # ============================================================
 
